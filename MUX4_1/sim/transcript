@@ -1,0 +1,148 @@
+# Compile of mux4_1.v was successful.
+# Compile of mux4_1_tb.v failed with 2 errors.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of mux4_1.v was successful.
+# Compile of mux4_1_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.mux4_1_tb
+# vsim -gui work.mux4_1_tb 
+# Start time: 19:49:28 on Jul 13,2021
+# Loading work.mux4_1_tb
+# Loading work.mux4_1
+add wave -r sim:/mux4_1_tb/*
+run -all
+# a[3:0]=0000--select=00--y=0
+# 
+# a[3:0]=0001--select=00--y=1
+# 
+# a[3:0]=0010--select=00--y=0
+# 
+# a[3:0]=0011--select=00--y=1
+# 
+# a[3:0]=0100--select=00--y=0
+# 
+# a[3:0]=0101--select=00--y=1
+# 
+# a[3:0]=0110--select=00--y=0
+# 
+# a[3:0]=0111--select=00--y=1
+# 
+# a[3:0]=1000--select=00--y=0
+# 
+# a[3:0]=1001--select=00--y=1
+# 
+# a[3:0]=1010--select=00--y=0
+# 
+# a[3:0]=1011--select=00--y=1
+# 
+# a[3:0]=1100--select=00--y=0
+# 
+# a[3:0]=1101--select=00--y=1
+# 
+# a[3:0]=1110--select=00--y=0
+# 
+# a[3:0]=1111--select=00--y=1
+# 
+# a[3:0]=0000--select=01--y=0
+# 
+# a[3:0]=0001--select=01--y=0
+# 
+# a[3:0]=0010--select=01--y=1
+# 
+# a[3:0]=0011--select=01--y=1
+# 
+# a[3:0]=0100--select=01--y=0
+# 
+# a[3:0]=0101--select=01--y=0
+# 
+# a[3:0]=0110--select=01--y=1
+# 
+# a[3:0]=0111--select=01--y=1
+# 
+# a[3:0]=1000--select=01--y=0
+# 
+# a[3:0]=1001--select=01--y=0
+# 
+# a[3:0]=1010--select=01--y=1
+# 
+# a[3:0]=1011--select=01--y=1
+# 
+# a[3:0]=1100--select=01--y=0
+# 
+# a[3:0]=1101--select=01--y=0
+# 
+# a[3:0]=1110--select=01--y=1
+# 
+# a[3:0]=1111--select=01--y=1
+# 
+# a[3:0]=0000--select=10--y=0
+# 
+# a[3:0]=0001--select=10--y=0
+# 
+# a[3:0]=0010--select=10--y=0
+# 
+# a[3:0]=0011--select=10--y=0
+# 
+# a[3:0]=0100--select=10--y=1
+# 
+# a[3:0]=0101--select=10--y=1
+# 
+# a[3:0]=0110--select=10--y=1
+# 
+# a[3:0]=0111--select=10--y=1
+# 
+# a[3:0]=1000--select=10--y=0
+# 
+# a[3:0]=1001--select=10--y=0
+# 
+# a[3:0]=1010--select=10--y=0
+# 
+# a[3:0]=1011--select=10--y=0
+# 
+# a[3:0]=1100--select=10--y=1
+# 
+# a[3:0]=1101--select=10--y=1
+# 
+# a[3:0]=1110--select=10--y=1
+# 
+# a[3:0]=1111--select=10--y=1
+# 
+# a[3:0]=0000--select=11--y=0
+# 
+# a[3:0]=0001--select=11--y=0
+# 
+# a[3:0]=0010--select=11--y=0
+# 
+# a[3:0]=0011--select=11--y=0
+# 
+# a[3:0]=0100--select=11--y=0
+# 
+# a[3:0]=0101--select=11--y=0
+# 
+# a[3:0]=0110--select=11--y=0
+# 
+# a[3:0]=0111--select=11--y=0
+# 
+# a[3:0]=1000--select=11--y=1
+# 
+# a[3:0]=1001--select=11--y=1
+# 
+# a[3:0]=1010--select=11--y=1
+# 
+# a[3:0]=1011--select=11--y=1
+# 
+# a[3:0]=1100--select=11--y=1
+# 
+# a[3:0]=1101--select=11--y=1
+# 
+# a[3:0]=1110--select=11--y=1
+# 
+# a[3:0]=1111--select=11--y=1
+# 
+# ** Note: $finish    : C:/Users/lenovo/Desktop/VLSI/Verilog_Labs/lab3/tb/mux4_1_tb.v(52)
+#    Time: 800 ps  Iteration: 0  Instance: /mux4_1_tb
+# 1
+# Break in Module mux4_1_tb at C:/Users/lenovo/Desktop/VLSI/Verilog_Labs/lab3/tb/mux4_1_tb.v line 52
+quit
+# End time: 19:53:24 on Jul 13,2021, Elapsed time: 0:03:56
+# Errors: 0, Warnings: 7

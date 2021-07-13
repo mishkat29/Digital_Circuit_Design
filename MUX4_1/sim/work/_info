@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/20.1
+vmux4_1
+Z0 !s110 1626185943
+!i10b 1
+!s100 Y0N1J6gzGWYZISdmm^NXm3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IM_zzLF9j>BK1aHA8M`oQN3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/lenovo/Desktop/VLSI/Verilog_Labs/lab3/sim
+w1626184617
+8C:/Users/lenovo/Desktop/VLSI/Verilog_Labs/lab3/rtl/mux4_1.v
+FC:/Users/lenovo/Desktop/VLSI/Verilog_Labs/lab3/rtl/mux4_1.v
+!i122 1
+L0 1 21
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1626185943.000000
+!s107 C:/Users/lenovo/Desktop/VLSI/Verilog_Labs/lab3/rtl/mux4_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/lenovo/Desktop/VLSI/Verilog_Labs/lab3/rtl/mux4_1.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vmux4_1_tb
+R0
+!i10b 1
+!s100 UUQQiea0ZXdQJD12QnR463
+R1
+IY:`_F35l<UgnGA@Q142V<0
+R2
+R3
+w1626185925
+8C:/Users/lenovo/Desktop/VLSI/Verilog_Labs/lab3/tb/mux4_1_tb.v
+FC:/Users/lenovo/Desktop/VLSI/Verilog_Labs/lab3/tb/mux4_1_tb.v
+!i122 2
+L0 1 54
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/lenovo/Desktop/VLSI/Verilog_Labs/lab3/tb/mux4_1_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/lenovo/Desktop/VLSI/Verilog_Labs/lab3/tb/mux4_1_tb.v|
+!i113 1
+R6
+R7
