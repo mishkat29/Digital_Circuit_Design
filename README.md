@@ -2,7 +2,7 @@
 
 VLSI System on Chip design using Verilog HDL. Consisting of Half Adder, Full Adder, ALU, Multiplexer (4:1), D flip-flop, Single Port RAM (8-bit Wide and 16 memory loactions) and FSM (Sequence detector).
 
-Language  - Verilog
+Hardware Descriptive Language  - Verilog
 
 Editor    - Visual Studio Code using Verilog-HDL/SystemVerilog/Bluespec SystemVerilog support for VS Code by mshr-h v1.5.0
 
