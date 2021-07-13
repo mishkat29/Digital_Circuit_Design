@@ -1,0 +1,6 @@
+rtl   - Register Transfer Language
+tb    - Testbench
+fa    - Full Adder
+ha    - Half Adder
+sim   - Simulation
+synth - Synthesis
