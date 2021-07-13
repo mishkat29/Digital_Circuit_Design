@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/20.1
+valu
+Z0 !s110 1626173011
+!i10b 1
+!s100 I]I][:ASK61RHCe0Pneah0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IV_S^_HXS9l[BlN;XUGi212
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/lenovo/Desktop/VLSI/Verilog_Labs/Arithmetic_Logic_Unit/sim
+w1626172237
+8C:/Users/lenovo/Desktop/VLSI/Verilog_Labs/Arithmetic_Logic_Unit/rtl/alu.v
+FC:/Users/lenovo/Desktop/VLSI/Verilog_Labs/Arithmetic_Logic_Unit/rtl/alu.v
+!i122 0
+L0 1 61
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1626173010.000000
+!s107 C:/Users/lenovo/Desktop/VLSI/Verilog_Labs/Arithmetic_Logic_Unit/rtl/alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/lenovo/Desktop/VLSI/Verilog_Labs/Arithmetic_Logic_Unit/rtl/alu.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+valu_tb
+R0
+!i10b 1
+!s100 c[m`l7G1NI`JjOClVWTbi0
+R1
+InO9o>0DG@SYX>SgjYmSUa2
+R2
+R3
+w1626172887
+8C:/Users/lenovo/Desktop/VLSI/Verilog_Labs/Arithmetic_Logic_Unit/sim/alu_tb.v
+FC:/Users/lenovo/Desktop/VLSI/Verilog_Labs/Arithmetic_Logic_Unit/sim/alu_tb.v
+!i122 1
+L0 1 123
+R4
+r1
+!s85 0
+31
+!s108 1626173011.000000
+!s107 C:/Users/lenovo/Desktop/VLSI/Verilog_Labs/Arithmetic_Logic_Unit/sim/alu_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/lenovo/Desktop/VLSI/Verilog_Labs/Arithmetic_Logic_Unit/sim/alu_tb.v|
+!i113 1
+R5
+R6
