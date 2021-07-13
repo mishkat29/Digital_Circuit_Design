@@ -1,0 +1,24 @@
+# Compile of half_adder_tb.v was successful.
+# Compile of half_adder.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of half_adder_tb.v was successful.
+# Compile of half_adder.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.half_adder_tb
+# vsim -gui work.half_adder_tb 
+# Start time: 11:31:05 on Jul 13,2021
+# Loading work.half_adder_tb
+# Loading work.half_adder
+add wave sim:/half_adder_tb/HA1/*
+run -all
+# Input a=0, b=0, Output sum =0, carry=0
+# Input a=0, b=1, Output sum =1, carry=0
+# Input a=1, b=0, Output sum =1, carry=0
+# Input a=1, b=1, Output sum =0, carry=1
+# ** Note: $finish    : C:/Users/lenovo/Desktop/VLSI/Verilog_Labs/lab1/tb/half_adder_tb.v(29)
+#    Time: 100 ps  Iteration: 0  Instance: /half_adder_tb
+# 1
+# Break in Module half_adder_tb at C:/Users/lenovo/Desktop/VLSI/Verilog_Labs/lab1/tb/half_adder_tb.v line 29
+quit
+# End time: 11:33:32 on Jul 13,2021, Elapsed time: 0:02:27
+# Errors: 0, Warnings: 3

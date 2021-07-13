@@ -1,0 +1,15 @@
+C:/Users/lenovo/Desktop/VLSI/Verilog_Labs/lab1/tb/half_adder_tb.v {1 {vlog -work work -stats=none C:/Users/lenovo/Desktop/VLSI/Verilog_Labs/lab1/tb/half_adder_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module half_adder_tb
+
+Top level modules:
+	half_adder_tb
+
+} {} {}} C:/Users/lenovo/Desktop/VLSI/Verilog_Labs/lab1/rtl/half_adder.v {1 {vlog -work work -stats=none {C:\Users\lenovo\Desktop\VLSI\Verilog_Labs\lab1\rtl\half_adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module half_adder
+
+Top level modules:
+	half_adder
+
+} {} {}}

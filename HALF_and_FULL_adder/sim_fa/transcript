@@ -1,0 +1,37 @@
+# Compile of full_adder.v was successful.
+# Compile of half_adder.v was successful.
+# Compile of full_adder_tb.v was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -gui work.full_adder_tb
+# vsim -gui work.full_adder_tb 
+# Start time: 11:50:19 on Jul 13,2021
+# Loading work.full_adder_tb
+# Compile of full_adder.v was successful.
+# Compile of half_adder.v was successful.
+# Compile of full_adder_tb.v was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -gui work.full_adder_tb
+# End time: 11:55:06 on Jul 13,2021, Elapsed time: 0:04:47
+# Errors: 0, Warnings: 12
+# vsim -gui work.full_adder_tb 
+# Start time: 11:55:06 on Jul 13,2021
+# Loading work.full_adder_tb
+# Loading work.full_adder
+# Loading work.half_adder
+add wave sim:/full_adder_tb/FA1/*
+run -all
+# Input a=0, b=0, c=0, Output sum =0, carry=0
+# Input a=0, b=0, c=1, Output sum =1, carry=0
+# Input a=0, b=1, c=0, Output sum =1, carry=0
+# Input a=0, b=1, c=1, Output sum =0, carry=1
+# Input a=1, b=0, c=0, Output sum =1, carry=0
+# Input a=1, b=0, c=1, Output sum =0, carry=1
+# Input a=1, b=1, c=0, Output sum =0, carry=1
+# Input a=1, b=1, c=1, Output sum =1, carry=1
+# ** Note: $finish    : C:/Users/lenovo/Desktop/VLSI/Verilog_Labs/lab1/tb/full_adder_tb.v(30)
+#    Time: 100 ps  Iteration: 0  Instance: /full_adder_tb
+# 1
+# Break in Module full_adder_tb at C:/Users/lenovo/Desktop/VLSI/Verilog_Labs/lab1/tb/full_adder_tb.v line 30
+quit
+# End time: 11:57:42 on Jul 13,2021, Elapsed time: 0:02:36
+# Errors: 0, Warnings: 1
