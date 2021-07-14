@@ -1,0 +1,15 @@
+C:/Users/lenovo/Desktop/VLSI/Verilog_Labs/ram/rtl/ram.v {1 {vlog -work work -stats=none C:/Users/lenovo/Desktop/VLSI/Verilog_Labs/ram/rtl/ram.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ram
+
+Top level modules:
+	ram
+
+} {} {}} C:/Users/lenovo/Desktop/VLSI/Verilog_Labs/ram/tb/ram_tb.v {1 {vlog -work work -stats=none C:/Users/lenovo/Desktop/VLSI/Verilog_Labs/ram/tb/ram_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ram_tb
+
+Top level modules:
+	ram_tb
+
+} {} {}}

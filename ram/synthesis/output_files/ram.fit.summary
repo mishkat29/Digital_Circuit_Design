@@ -1,0 +1,11 @@
+Fitter Status : Successful - Wed Jul 14 15:12:44 2021
+Quartus Prime Version : 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+Revision Name : ram
+Top-level Entity Name : ram
+Family : MAX V
+Device : 5M570ZM100C4
+Timing Models : Final
+Total logic elements : 241 / 570 ( 42 % )
+Total pins : 14 / 74 ( 19 % )
+Total virtual pins : 0
+UFM blocks : 0 / 1 ( 0 % )

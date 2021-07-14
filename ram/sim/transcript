@@ -1,0 +1,17 @@
+# Compile of ram.v was successful.
+# Compile of ram_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.ram_tb
+# vsim -gui work.ram_tb 
+# Start time: 15:07:19 on Jul 14,2021
+# Loading work.ram_tb
+# Loading work.ram
+add wave -r sim:/ram_tb/*
+run -all
+# ** Note: $finish    : C:/Users/lenovo/Desktop/VLSI/Verilog_Labs/ram/tb/ram_tb.v(69)
+#    Time: 350 ps  Iteration: 0  Instance: /ram_tb
+# 1
+# Break in Module ram_tb at C:/Users/lenovo/Desktop/VLSI/Verilog_Labs/ram/tb/ram_tb.v line 69
+quit
+# End time: 15:11:30 on Jul 14,2021, Elapsed time: 0:04:11
+# Errors: 0, Warnings: 6
