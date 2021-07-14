@@ -1,0 +1,15 @@
+C:/Users/lenovo/Desktop/VLSI/Verilog_Labs/seq_det/tb/seq_det_tb.v {1 {vlog -work work -stats=none C:/Users/lenovo/Desktop/VLSI/Verilog_Labs/seq_det/tb/seq_det_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module seq_det_tb
+
+Top level modules:
+	seq_det_tb
+
+} {} {}} C:/Users/lenovo/Desktop/VLSI/Verilog_Labs/seq_det/rtl/seq_det.v {1 {vlog -work work -stats=none C:/Users/lenovo/Desktop/VLSI/Verilog_Labs/seq_det/rtl/seq_det.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module seq_det
+
+Top level modules:
+	seq_det
+
+} {} {}}

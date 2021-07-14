@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/20.1
+vseq_det
+Z0 !s110 1626259140
+!i10b 1
+!s100 K;RENmL:@]]MB4C>YzAzi3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I?A34i<F0Rb[Paz=EUbA>H2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/lenovo/Desktop/VLSI/Verilog_Labs/seq_det/sim
+w1626259132
+8C:/Users/lenovo/Desktop/VLSI/Verilog_Labs/seq_det/rtl/seq_det.v
+FC:/Users/lenovo/Desktop/VLSI/Verilog_Labs/seq_det/rtl/seq_det.v
+!i122 3
+L0 1 52
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1626259139.000000
+!s107 C:/Users/lenovo/Desktop/VLSI/Verilog_Labs/seq_det/rtl/seq_det.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/lenovo/Desktop/VLSI/Verilog_Labs/seq_det/rtl/seq_det.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vseq_det_tb
+R0
+!i10b 1
+!s100 cX7U[8OzaN5[ZM;;LB1[A1
+R1
+IffKTST8eJ@aEFRJG3<9^z3
+R2
+R3
+w1626258818
+8C:/Users/lenovo/Desktop/VLSI/Verilog_Labs/seq_det/tb/seq_det_tb.v
+FC:/Users/lenovo/Desktop/VLSI/Verilog_Labs/seq_det/tb/seq_det_tb.v
+!i122 4
+L0 1 80
+R4
+r1
+!s85 0
+31
+!s108 1626259140.000000
+!s107 C:/Users/lenovo/Desktop/VLSI/Verilog_Labs/seq_det/tb/seq_det_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/lenovo/Desktop/VLSI/Verilog_Labs/seq_det/tb/seq_det_tb.v|
+!i113 1
+R5
+R6

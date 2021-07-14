@@ -1,0 +1,51 @@
+# Compile of seq_det.v failed with 2 errors.
+# Compile of seq_det_tb.v was successful.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of seq_det.v failed with 2 errors.
+# Compile of seq_det_tb.v was successful.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of seq_det.v failed with 2 errors.
+# Compile of seq_det_tb.v was successful.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of seq_det.v was successful.
+# Compile of seq_det_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.seq_det_tb
+# vsim -gui work.seq_det_tb 
+# Start time: 16:09:18 on Jul 14,2021
+# Loading work.seq_det_tb
+# Loading work.seq_det
+add wave sim:/seq_det_tb/*
+run -all
+# Reset=1, state=xx, Din=0, Output Dout=x
+# Reset=1, state=00, Din=0, Output Dout=0
+# Reset=0, state=00, Din=0, Output Dout=0
+# Reset=0, state=00, Din=1, Output Dout=0
+# Reset=0, state=01, Din=1, Output Dout=0
+# Reset=0, state=01, Din=0, Output Dout=0
+# Reset=0, state=10, Din=0, Output Dout=0
+# Reset=0, state=10, Din=1, Output Dout=0
+# Correct output at state 11
+# Reset=0, state=11, Din=1, Output Dout=1
+# Reset=0, state=11, Din=0, Output Dout=1
+# Reset=0, state=10, Din=0, Output Dout=0
+# Reset=0, state=10, Din=1, Output Dout=0
+# Correct output at state 11
+# Reset=0, state=11, Din=1, Output Dout=1
+# Reset=1, state=11, Din=1, Output Dout=1
+# Reset=1, state=00, Din=1, Output Dout=0
+# Reset=0, state=00, Din=1, Output Dout=0
+# Reset=0, state=01, Din=1, Output Dout=0
+# Reset=0, state=01, Din=0, Output Dout=0
+# Reset=0, state=10, Din=0, Output Dout=0
+# Reset=0, state=10, Din=1, Output Dout=0
+# Correct output at state 11
+# Reset=0, state=11, Din=1, Output Dout=1
+# Reset=0, state=01, Din=1, Output Dout=0
+# ** Note: $finish    : C:/Users/lenovo/Desktop/VLSI/Verilog_Labs/seq_det/tb/seq_det_tb.v(77)
+#    Time: 120 ps  Iteration: 0  Instance: /seq_det_tb
+# 1
+# Break in Module seq_det_tb at C:/Users/lenovo/Desktop/VLSI/Verilog_Labs/seq_det/tb/seq_det_tb.v line 77
+quit
+# End time: 16:11:37 on Jul 14,2021, Elapsed time: 0:02:19
+# Errors: 0, Warnings: 9

@@ -1,0 +1,7 @@
+
+State Machine - |seq_det|present_state
+Name present_state.STATE3 present_state.STATE2 present_state.STATE1 present_state.IDLE 
+present_state.IDLE 0 0 0 0 
+present_state.STATE1 0 0 1 1 
+present_state.STATE2 0 1 0 1 
+present_state.STATE3 1 0 0 1 
