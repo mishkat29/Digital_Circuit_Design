@@ -1,0 +1,80 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/20.1
+vd_ff
+!s110 1626251097
+!i10b 1
+!s100 ^Yhhb>FOXgdC=a1h_4Z`g0
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IA;dz_;nSX4dD0X5IaGog@3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/lenovo/Desktop/VLSI/Verilog_Labs/d-flip-flop/sim
+w1626250126
+Z3 8C:/Users/lenovo/Desktop/VLSI/Verilog_Labs/d-flip-flop/rtl/dff.v
+Z4 FC:/Users/lenovo/Desktop/VLSI/Verilog_Labs/d-flip-flop/rtl/dff.v
+!i122 5
+Z5 L0 1 21
+Z6 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1626251097.000000
+Z7 !s107 C:/Users/lenovo/Desktop/VLSI/Verilog_Labs/d-flip-flop/rtl/dff.v|
+Z8 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/lenovo/Desktop/VLSI/Verilog_Labs/d-flip-flop/rtl/dff.v|
+!i113 1
+Z9 o-work work
+Z10 tCvgOpt 0
+vdff
+!s110 1626251295
+!i10b 1
+!s100 zMc1?:_9ZUOE1>Lgo?cg]2
+R0
+ID8F63JC1<TAX4fGd8Z_LS3
+R1
+R2
+w1626251208
+R3
+R4
+!i122 9
+R5
+R6
+r1
+!s85 0
+31
+Z11 !s108 1626251295.000000
+R7
+R8
+!i113 1
+R9
+R10
+vdff_tb
+!s110 1626251296
+!i10b 1
+!s100 9TjQk7ZM2dm_RfOJHSZOE3
+R0
+IilV_9iQckTVeJ=FSaljz40
+R1
+R2
+w1626250999
+8C:/Users/lenovo/Desktop/VLSI/Verilog_Labs/d-flip-flop/tb/dff_tb.v
+FC:/Users/lenovo/Desktop/VLSI/Verilog_Labs/d-flip-flop/tb/dff_tb.v
+!i122 10
+L0 1 56
+R6
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/lenovo/Desktop/VLSI/Verilog_Labs/d-flip-flop/tb/dff_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/lenovo/Desktop/VLSI/Verilog_Labs/d-flip-flop/tb/dff_tb.v|
+!i113 1
+R9
+R10

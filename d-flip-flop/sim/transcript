@@ -1,0 +1,30 @@
+# Compile of dff.v was successful.
+# Compile of dff_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.dff_tb
+# vsim -gui work.dff_tb 
+# Start time: 13:58:36 on Jul 14,2021
+# Loading work.dff_tb
+# Loading work.dff
+add wave -r sim:/dff_tb/*
+run -all
+# d=x--q=x--qb=x
+# d=0--q=x--qb=x
+# d=0--q=0--qb=1
+# d=1--q=0--qb=1
+# d=1--q=1--qb=0
+# d=0--q=1--qb=0
+# d=0--q=0--qb=1
+# d=1--q=0--qb=1
+# d=1--q=1--qb=0
+# d=1--q=0--qb=1
+# d=0--q=0--qb=1
+# d=1--q=0--qb=1
+# d=1--q=1--qb=0
+# ** Note: $finish    : C:/Users/lenovo/Desktop/VLSI/Verilog_Labs/d-flip-flop/tb/dff_tb.v(50)
+#    Time: 85 ps  Iteration: 0  Instance: /dff_tb
+# 1
+# Break in Module dff_tb at C:/Users/lenovo/Desktop/VLSI/Verilog_Labs/d-flip-flop/tb/dff_tb.v line 50
+quit
+# End time: 14:03:04 on Jul 14,2021, Elapsed time: 0:04:28
+# Errors: 0, Warnings: 7
