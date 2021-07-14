@@ -1,0 +1,3 @@
+For Simulation keep in mind tb.v file for dff contains instantiation with dff name but .v file contains
+module df_f. Do correct it if and when necessary.
+For synthesis df_f used.
