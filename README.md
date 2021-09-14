@@ -1,4 +1,4 @@
-# VLSI_SoC_Design_Verilog_HDL
+# Digital_Design_Verilog_HDL
 
 Designing basic Digital Circuits using Verilog HDL. Consisting of Half Adder, Full Adder, ALU, Multiplexer (4:1), D flip-flop, Single Port RAM (8-bit Wide and 16 memory loactions) and FSM (Sequence detector).
 
